@@ -1,0 +1,7 @@
+nella simulazione ho immaginato una azienda con 2 uffici con 2 mansioni diverse
+L'ufficio "prodotti nuovi" si occupa solo della vendita di prodotti ex novo
+l'ufficio "Assistenza e Riparazione" si occupa di tutta la parte post vendita come assistenza,riparazione e manutenzione;
+l'utilita delle vlan sta nel fatto che, anche se in uffici diversi, il personale lavori a stretto contatto, 
+poichè "l'ufficio assistenza e riparazione" deve accedere ai dati e documenti di vendita per poter fornire corretta assistenza e riparazione guasti.
+Chiaramente i vari settori (contabilità,tecnico ecc) sono debitamente separati poiche ognuno di essi gestisce informazioni sensibili.
+es. dati aziendali ed informazioni economiche per contabilita e commerciale oppure progetti e informazioni riguardo i prodotti per i tecnici
